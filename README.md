@@ -7,5 +7,5 @@ Codes from CourseEra's Deep Learning Specialisation with Deep Learning AI
 
 Basics of Python : Goes through numpy, e.g. introduces concepts like broadcasting and vectorisation
 
-Logistic Regression with a Neural Network Mindset -- Implement Logistic Regression Model with a Neural Network for Image Classification of Cats 
+Logistic Regression with a Neural Network Mindset : Implement Logistic Regression Model with a Neural Network for Image Classification of Cats 
 
